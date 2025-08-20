@@ -1,0 +1,49 @@
+# Binarios
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Archivos de test
+*.test
+
+# Archivos de coverage
+*.out
+*.prof
+
+# Archivos de dependencias de Go
+vendor/
+
+# Archivos de configuración local
+.env
+*.local
+
+# Logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos temporales
+tmp/
+temp/
+
+# Base de datos local
+*.db
+*.sqlite
+*.sqlite3
