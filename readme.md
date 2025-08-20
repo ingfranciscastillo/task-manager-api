@@ -14,7 +14,7 @@ Una API REST robusta para gestión de tareas construida con Go, Gin, GORM y Post
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Go 1.21** - Lenguaje de programación
+- **Go** - Lenguaje de programación
 - **Gin** - Framework web HTTP
 - **GORM** - ORM para Go
 - **PostgreSQL** - Base de datos relacional
